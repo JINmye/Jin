@@ -1,0 +1,84 @@
+09
+Given a method that must ensure that its parameter is not null:
+
+11. public void someMethod(Object value) {
+12. // check for null value
+...
+20. System.out.println(value.getClass());
+21. }
+What, inserted at line 12, s the appropriate way to handle a null value?
+
+1. assert value == null;
+2. assert value != null, "value is null";
+3. if (value == null) { throw new AssertionException("value is null"); }
+4. if (value == null) { throw new IllengalArgumentException("value is null"); }
+#4
+Given that t1 is a reference to a live hread, which is true?
+
+1. The Thread.sleep() method can take t1 as an argument.
+2. The Object.notify() method can take t1 as an argument.
+3. The Thread.yield() method can take t1 as an argument.
+4. The Thread.setPriority() method can take t1 as an argument.
+5. The Object.notify() method arbitrarily chooses which thread to notify.
+#5
+다음 토론법 중 교수자 중심 토론법이 아닌 것은?
+
+① 장기 분단편성방식
+② 회의진행식 토론법  <<
+③ 버즈토론
+④ 어항식토론법
+⑤ 브레인스토밍   
+#2
+시범-실습을 활용하는 방안에서 시범-실습은 네 가지 기본 단계에 따라 진행 된다. 
+그렇다면 시범-실습의 네 가지 기본단계가 아닌 것은?
+
+① 준비 단계  ② 시범 단계  ③ 응용 단계  ④ 실습 단계 << ⑤ 평가 단계
+#4
+마이크로티칭이 가지는 장점이 아닌 것은?
+
+① 새로운 기법과 절차의 연습이 가능하다.
+② 심적 부담감을 줄어들게 한다.
+③ 특정 주제의 수업에 대해 새로운 접근 방법을 시도할 수 있다.
+④ 수업에 대해서 자기 평가 및 타인 평가가 가능하다.
+⑤ 동료 장학에는 효과적이지만 자기 장학에는 효과적이지 않다.  <<
+#5
+탐구학습 유형의 특징으로 알맞지 않은 것은?
+
+① 자유 탐구와 수정된 자유 탐구가 있다.
+② 학습에 집중도가 높아 대규모 학급에 적절하다. <<
+③ 수정된 자유 탐구는 적절히 격려해주며 교사가 간단한
+   질문 등을 통해 방법을 알려준다.
+④ 학생들 스스로가 문제 해결을 위해 방법부터
+   해결까지 모두 해결한다.
+⑤ 교사의 지도가 적은 영재 학생과 아동에게 적절하다.
+#2
+스토리텔링기반학습의 교수-학습 과정 및 전략 중에서 옳지 않은 것은?
+
+① 목표 제시 ? 학습 목표를 구체적으로 제시하여 학생들이 학습할 내용을
+               잘 숙지할 수 있도록 한다.
+② 이야기 제시 ? 학습 내용을 실행활의 소재와 연계한 스토리로 구성하여 전달한다.
+③ 성찰 및 토론 ? 스토리로 소개된 학습 내용에 대하여 학습자들이 직접 생각하고,
+                  주요 쟁점을 토론할 수 있도록 한다.
+④ 이야기 구성 ?  자신의 이야기를 반드시 직접 글로 작성한다. <<
+⑤ 정리 ? 학습한 내용을 다시 정리하여 주고, 다음 학습 내용을 예고한다.
+#4
+디지털 세대의 학습환경 중 틀린 것을 고르시오.
+
+① 적극적으로 정보를 제공해야한다.
+② 항시 접속성이 제공되어야 한다
+③ 학습 커뮤니티의 활성화가 이루어 져야한다.
+④ 재미있는 이러닝 활동이어야 한다.
+⑤ 개인적이고, 즉각성이 있어야한다.  <<
+#5
+다음 중 협동학습의 장점이 아닌 것은?
+
+① 배려하는 태도를 향상 시킬 수 있다.
+② 독립심과 책임감을 기를 수 있다.
+③ 사적인 활동에 치중하게 되어 학습 과제에 더욱 집중 할 수 있다.  <<
+④ 문제해결 능력과 의사 결정 능력을 향상 시킬 수 있다.
+⑤ 긍정적인 자아 개념을 갖도록 유도할 수 있다.
+#3
+
+@
+
+@이 나오면 끝난다.
